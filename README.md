@@ -47,7 +47,7 @@ This pattern separates retrieval from ranking and prompt assembly. It creates a 
 - Use hybrid retrieval where possible
 - Rerank before prompt assembly
 - Deduplicate and bound context size
-- Define abstain/fallback behavior
+- Define abstain and fallback behavior
 - Trace failures by stage
 
 ## Key Takeaways
